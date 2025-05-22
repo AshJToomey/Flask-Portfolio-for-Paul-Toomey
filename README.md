@@ -30,6 +30,7 @@ Accessible & SEO-friendly – Uses semantic HTML, proper metadata, and accessibi
 ├── app.py (if using Flask)
 
 ├── README.md
+
 If using Flask, ensure the image and CSS files are served via the static/ directory and your template (HTML) is in the templates/ folder.
 
 **🛠 Technologies Used**
