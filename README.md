@@ -1,4 +1,4 @@
-#**Paul Toomey – Personal Portfolio Website**
+**Paul Toomey – Personal Portfolio Website**
 
 This is the source code for my professional portfolio website. It presents my skills, experience, qualifications, and contact information in a clean, accessible layout with modern features such as responsive design and dark mode.
 
